@@ -14,7 +14,8 @@ export default class Portfolio extends Component {
       <section className="portfolio-section section">
         <div className="container">
           <div className="row">
-            <div className="col-sm-12 col-md-3">
+            <div className="col-sm-12 col-md-4"></div>
+            <div className="col-sm-12 col-md-4">
               <div className="heading">
                 <h3>
                   <b>Portfolio</b>
@@ -24,24 +25,8 @@ export default class Portfolio extends Component {
                 </h6>
               </div>
             </div>
-            {/* col-sm-3 */}
-            <div className="col-sm-12 col-md-9">
-              <div className="portfolioFilter clearfix margin-b-80">
-                <a href="#" data-filter="*" className="current">
-                  <b>ALL</b>
-                </a>
-                <a href="#" data-filter=".mobile">
-                  <b>MOBILE</b>
-                </a>
-                <a href="#" data-filter=".web">
-                  <b>WEB</b>
-                </a>
-                <a href="#" data-filter=".uiux">
-                  <b>PROTOTYPE (UI/UX)</b>
-                </a>
-              </div>
-              {/* portfolioFilter */}
-            </div>
+            <div className="col-sm-12 col-md-4"></div>
+
             {/* col-sm-8 */}
           </div>
           {/* row */}
@@ -63,7 +48,9 @@ export default class Portfolio extends Component {
                     <p className="portfolio-version">V{portfolio.version}</p>
                     {portfolio.interests.map(interest => {
                       return (
-                        <span className={`badge badge-pill badge-${interest.badge}`}>
+                        <span
+                          className={`badge badge-pill badge-${interest.badge}`}
+                        >
                           {interest.label}
                         </span>
                       );
