@@ -10,7 +10,7 @@ import portfolios from "./data/portfolio";
 import { Header, Footer } from "./components/Template";
 import Experience from "./components/Experience";
 import Education from "./components/Education";
-import Portfolio from "./components/Portfolio";
+import Portfolio from "./components/Portfolio/index";
 
 function App() {
   ReactGA.initialize("UA-37564433-2");

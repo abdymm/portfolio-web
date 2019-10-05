@@ -497,6 +497,9 @@ b.max-bold {
   margin: 0px 5px;
   display: inline-block;
 }
+.app-download-box span {
+  margin-right: 5px;
+}
 
 /* ---------------------------------
 7. EDUCATION SECTION
