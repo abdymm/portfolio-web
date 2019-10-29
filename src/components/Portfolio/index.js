@@ -38,6 +38,8 @@ export default class Portfolio extends Component {
                 </h3>
                 <h6 className="font-lite-black">
                   <b>MY WORK</b>
+                  <br/>
+                  <small>2018-2019</small>
                 </h6>
               </div>
             </div>
