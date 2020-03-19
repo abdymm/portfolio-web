@@ -547,3 +547,16 @@ b.max-bold {
   padding: 30px 0;
   background: #28023d;
 }
+@media (max-width:768px){
+  .app-ss ul li {
+    width: 80%;
+  }
+  .app-name-box, .app-download-box{
+    text-align: center;
+  }
+  .app-name {
+    text-align: center;
+
+    font-size: 22px;
+  }
+}

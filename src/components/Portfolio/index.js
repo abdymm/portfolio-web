@@ -37,9 +37,9 @@ export default class Portfolio extends Component {
                   <b>Portfolio</b>
                 </h3>
                 <h6 className="font-lite-black">
-                  <b>MY WORK</b>
+                  <b>MY WORK with JS</b>
                   <br/>
-                  <small>2018-2019</small>
+                  <small>2019-Now</small>
                 </h6>
               </div>
             </div>

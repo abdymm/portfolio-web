@@ -67,7 +67,7 @@ function Header() {
               </div>
               {/* col-sm-8 */}
               <div className="col-sm-10 col-md-3 col-lg-3">
-                <a className="downlad-btn" href="#">
+                <a className="downlad-btn" href="http://abdymalikmulky.com/cv-abdymalikmulky-2.pdf">
                   Download CV
                 </a>
               </div>
