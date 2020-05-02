@@ -8,8 +8,8 @@ export default [
     interests: [
       {
         label: "React Native",
-        badge: "success"
-      }
+        badge: "success",
+      },
     ],
     url_app_store:
       "https://apps.apple.com/us/app/igracias-telkomschools/id1445346188?l=id&ls=1",
@@ -22,8 +22,8 @@ export default [
       "images/portfolio/ss/ts/3.jpg",
       "images/portfolio/ss/ts/4.jpg",
       "images/portfolio/ss/ts/5.jpg",
-      "images/portfolio/ss/ts/6.jpg"
-    ]
+      "images/portfolio/ss/ts/6.jpg",
+    ],
   },
   {
     name: "Cerita",
@@ -34,12 +34,12 @@ export default [
     interests: [
       {
         label: "React Native",
-        badge: "success"
-      }
+        badge: "success",
+      },
     ],
     url_app_store: "https://expo.io/@abdymm/Cerita-App",
     url_play_store: "https://expo.io/@abdymm/Cerita-App",
-    screenshoots: []
+    screenshoots: [],
   },
 
   {
@@ -50,12 +50,12 @@ export default [
     interests: [
       {
         label: "React JS",
-        badge: "info"
+        badge: "info",
       },
       {
         label: "NodeJS",
-        badge: "primary"
-      }
+        badge: "primary",
+      },
     ],
     url_app_store: "",
     url_play_store: "",
@@ -63,8 +63,8 @@ export default [
     screenshoots: [
       "images/portfolio/ss/cerita-web/1.png",
       "images/portfolio/ss/cerita-web/2.png",
-      "images/portfolio/ss/cerita-web/3.png"
-    ]
+      "images/portfolio/ss/cerita-web/3.png",
+    ],
   },
 
   {
@@ -76,8 +76,8 @@ export default [
     interests: [
       {
         label: "React Native",
-        badge: "success"
-      }
+        badge: "success",
+      },
     ],
     url_app_store:
       "https://apps.apple.com/us/app/xgracias-telkom-campus/id1479843545?l=id&ls=1",
@@ -91,8 +91,8 @@ export default [
       "images/portfolio/ss/xgracias/4.jpg",
       "images/portfolio/ss/xgracias/5.jpg",
       "images/portfolio/ss/xgracias/6.jpg",
-      "images/portfolio/ss/xgracias/7.jpg"
-    ]
+      "images/portfolio/ss/xgracias/7.jpg",
+    ],
   },
   {
     name: "Labschool",
@@ -103,8 +103,8 @@ export default [
     interests: [
       {
         label: "React Native",
-        badge: "success"
-      }
+        badge: "success",
+      },
     ],
 
     url_app_store:
@@ -118,8 +118,8 @@ export default [
       "images/portfolio/ss/ls/3.jpg",
       "images/portfolio/ss/ls/4.jpg",
       "images/portfolio/ss/ls/5.jpg",
-      "images/portfolio/ss/ls/6.jpg"
-    ]
+      "images/portfolio/ss/ls/6.jpg",
+    ],
   },
   {
     name: "TC Event",
@@ -130,8 +130,8 @@ export default [
     interests: [
       {
         label: "React Native",
-        badge: "success"
-      }
+        badge: "success",
+      },
     ],
     url_app_store:
       "https://apps.apple.com/us/app/telkom-campuses/id1451474072?l=id&ls=1",
@@ -146,8 +146,8 @@ export default [
       "images/portfolio/ss/tc-event/5.jpeg",
       "images/portfolio/ss/tc-event/6.jpeg",
       "images/portfolio/ss/tc-event/7.png",
-      "images/portfolio/ss/tc-event/8.png"
-    ]
+      "images/portfolio/ss/tc-event/8.png",
+    ],
   },
   {
     name: "My YPT",
@@ -158,8 +158,8 @@ export default [
     interests: [
       {
         label: "Android",
-        badge: "success"
-      }
+        badge: "success",
+      },
     ],
     url_app_store: "",
     url_play_store:
@@ -169,8 +169,8 @@ export default [
       "images/portfolio/ss/myypt/1.png",
       "images/portfolio/ss/myypt/2.png",
       "images/portfolio/ss/myypt/3.png",
-      "images/portfolio/ss/myypt/4.png"
-    ]
+      "images/portfolio/ss/myypt/4.png",
+    ],
   },
   {
     name: "AR YPTelkom",
@@ -181,12 +181,12 @@ export default [
     interests: [
       {
         label: "Android",
-        badge: "success"
+        badge: "success",
       },
       {
         label: "ML Kit",
-        badge: "success"
-      }
+        badge: "success",
+      },
     ],
     url_app_store: "",
     url_play_store:
@@ -194,8 +194,8 @@ export default [
     demo: "https://streamable.com/d5wxi",
     screenshoots: [
       "https://lh3.googleusercontent.com/fTrBiB9H0q_oZrqvXIoMKeMdLUtCv6wFuKxSyAfVqjbty2OoOn5Lp-O1gAgZ0c-6RgHT=w2880-h1596-rw",
-      "https://lh3.googleusercontent.com/JKs0fx9jQubVusgmbdqEwgY0bUusrqrHxe294HKynWlcDeq9bannpLEvidUfRTekOg=w2880-h1596-rw"
-    ]
+      "https://lh3.googleusercontent.com/JKs0fx9jQubVusgmbdqEwgY0bUusrqrHxe294HKynWlcDeq9bannpLEvidUfRTekOg=w2880-h1596-rw",
+    ],
   },
   {
     name: "Digital ID Web & Mobile (PWA)",
@@ -206,12 +206,12 @@ export default [
     interests: [
       {
         label: "React JS",
-        badge: "info"
+        badge: "info",
       },
       {
         label: "PWA",
-        badge: "info"
-      }
+        badge: "info",
+      },
     ],
     url_app_store: "",
     url_play_store: "",
@@ -228,8 +228,8 @@ export default [
       "images/portfolio/ss/digitalid/3.png",
       "images/portfolio/ss/digitalid/4.png",
       "images/portfolio/ss/digitalid/5.png",
-      "images/portfolio/ss/digitalid/6.png"
-    ]
+      "images/portfolio/ss/digitalid/6.png",
+    ],
   },
   {
     name: "En-TB",
@@ -240,25 +240,23 @@ export default [
     interests: [
       {
         label: "UI/UX",
-        badge: "danger"
+        badge: "danger",
       },
       {
         label: "React Native",
-        badge: "success"
-      }
+        badge: "success",
+      },
     ],
-    url_app_store:
-      "https://play.google.com/store/apps/details?id=com.en_tb",
-    url_play_store:
-      "https://play.google.com/store/apps/details?id=com.en_tb",
+    url_app_store: "https://play.google.com/store/apps/details?id=com.en_tb",
+    url_play_store: "https://play.google.com/store/apps/details?id=com.en_tb",
     screenshoots: [
       "images/portfolio/ss/entb/1.png",
       "images/portfolio/ss/entb/2.png",
       "images/portfolio/ss/entb/3.png",
       "images/portfolio/ss/entb/4.png",
       "images/portfolio/ss/entb/5.png",
-      "images/portfolio/ss/entb/6.png"
-    ]
+      "images/portfolio/ss/entb/6.png",
+    ],
   },
   {
     name: "ProSpark",
@@ -269,8 +267,8 @@ export default [
     interests: [
       {
         label: "React Native",
-        badge: "success"
-      }
+        badge: "success",
+      },
     ],
     url_app_store:
       "https://play.google.com/store/apps/details?id=com.prospark&hl=en",
@@ -280,8 +278,55 @@ export default [
       "images/portfolio/ss/prospark/1.jpeg",
       "images/portfolio/ss/prospark/2.jpeg",
       "images/portfolio/ss/prospark/3.jpeg",
-      "images/portfolio/ss/prospark/4.jpeg"
-    ]
+      "images/portfolio/ss/prospark/4.jpeg",
+    ],
   },
-  
+  {
+    name: "Pusicov",
+    icon: "images/portfolio/pusicov.png",
+    version: "1.0",
+    description: "an App to monitor corona virus live update in institution",
+    interests: [
+      {
+        label: "PHP",
+        badge: "primary",
+      },
+      {
+        label: "React Native",
+        badge: "success",
+      },
+    ],
+    url_app_store: "",
+    url_play_store: "http://abdymalikmulky.com",
+    screenshoots: [
+      "images/portfolio/ss/pusicov/1.jpeg",
+      "images/portfolio/ss/pusicov/2.jpeg",
+      "images/portfolio/ss/pusicov/3.jpeg",
+      "images/portfolio/ss/pusicov/4.jpeg",
+      "images/portfolio/ss/pusicov/5.jpeg",
+    ],
+  },
+  {
+    name: "SatgasCovid19Sultra",
+    icon: "images/portfolio/satgas.png",
+    version: "1.0",
+    description: "an App to monitor corona virus live update in sulawesi tenggara, Indonesia",
+    interests: [
+      {
+        label: "PHP",
+        badge: "primary",
+      },
+      {
+        label: "React Native",
+        badge: "success",
+      },
+    ],
+    url_app_store: "abdymalikmulky.com/SatgasCovid19/satgas_v001.apk",
+    url_play_store: "abdymalikmulky.com/SatgasCovid19/satgas_v001.apk",
+    screenshoots: [
+      "images/portfolio/ss/satgas/1.jpeg",
+      "images/portfolio/ss/satgas/2.jpeg",
+      "images/portfolio/ss/satgas/3.jpeg",
+    ],
+  },
 ];
