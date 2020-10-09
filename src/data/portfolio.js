@@ -263,7 +263,7 @@ export default [
     icon: "images/portfolio/prospark.png",
     version: "1.1.0",
     description:
-      "Working only for video conference call feature until right now.",
+      "I start with develop webex implementation on this LMS Platform",
     interests: [
       {
         label: "React Native",

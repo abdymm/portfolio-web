@@ -1,6 +1,7 @@
 {
   "name": "v3-react",
-  "version": "0.1.0",
+  "homepage": "http://abdymalikmulky.com/",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@babel/runtime": "^7.6.2",
